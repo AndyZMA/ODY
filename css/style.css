@@ -1747,7 +1747,7 @@ img.svg{
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	background-image: url(..//img/animate/1.jpg);
+	background-image: url(..//img/portfolio/HotelHome.jpg);
 	z-index: 5;
 	box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
 }
@@ -2587,13 +2587,13 @@ img.svg{
 	background-position: center;
 }
 .constructify_tm_home_project_wrap .rightbox ul li:nth-child(1) .image_wrap .image{
-	background-image: url(..//img/portfolio/15.jpg);
+	background-image: url(..//img/portfolio/MONTECARLO.jpg);
 }
 .constructify_tm_home_project_wrap .rightbox ul li:nth-child(2) .image_wrap .image{
-	background-image: url(..//img/portfolio/2.jpg);
+	background-image: url(..//img/portfolio/VEGAS.jpg);
 }
 .constructify_tm_home_project_wrap .rightbox ul li:nth-child(3) .image_wrap .image{
-	background-image: url(..//img/portfolio/4.jpg);
+	background-image: url(..//img/portfolio/Mayakoba.jpg);
 }
 .constructify_tm_home_project_wrap .rightbox ul li .inner .image_wrap .overlay_color{
 	position: absolute;
@@ -6210,7 +6210,7 @@ img.svg{
 	display: block;
     width: 29px;
     height: 29px;
-    background-color: #09193b;
+    background-color: #ffff;
     position: absolute;
     left: 11px;
     top: 0px;
